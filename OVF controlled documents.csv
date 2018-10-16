@@ -4,3 +4,6 @@ Name,Filename,Reference ,Location
 OVF Risk Assessment,OVF.risk_.assessment.xlsx,https://github.com/joereddington-public/MHRA-Technical-File/blob/master/OVF.risk_.assessment.xlsx,https://github.com/joereddington-public/MHRA-Technical-File/blob/master/OVF.risk_.assessment.xlsx
 eQT Document Management Policty ,Document.Management.Policy.docx,,
 OVF Device Description,Device.Description.docx,,
+Sync-with-server Release notes, Release-sync-with-server-notes.v.3.0.docx, https://github.com/eQualityTime/TheOpenVoiceFactory/files/2445801/Release-sync-with-server-notes.v.3.0.docx,https://github.com/eQualityTime/TheOpenVoiceFactory/files/2445801/Release-sync-with-server-notes.v.3.0.docx
+Sync-with-server Javascript Test Reports, Release-sync-with-server-javascript-tests.txt, https://github.com/eQualityTime/TheOpenVoiceFactory/files/2441138/Release-sync-with-server-javascript-tests.txt,https://github.com/eQualityTime/TheOpenVoiceFactory/files/2441138/Release-sync-with-server-javascript-tests.txt
+Sync-with-server Python Test Reports, Release-sync-with-server-python-tests.txt, https://github.com/eQualityTime/TheOpenVoiceFactory/files/2441153/Release-sync-with-server-python-tests.txt, https://github.com/eQualityTime/TheOpenVoiceFactory/files/2441153/Release-sync-with-server-python-tests.txt
